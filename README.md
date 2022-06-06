@@ -29,6 +29,8 @@ Après la génération du fichier firebase.json, il faudra remplacer
 "public": "./out",
 ```
 
+Maintenant vous pouvez essayer de build et export votre application
+
 ```
 yarn build
 yarn export
@@ -43,4 +45,10 @@ Vous allez devoir effectuer quelques modifications
 
 - https://nextjs.org/docs/messages/export-image-api
 
-Réessayer de build et d'export jusqu'à ce que ça marche
+Réessayer de build et un export jusqu'à ce que ça marche
+
+Et quand ça marche vous pouvez deployer votre site sur firebase avec cette commande
+
+```
+firebase deploy --only hosting
+```
