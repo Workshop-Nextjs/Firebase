@@ -12,6 +12,8 @@ https://docs.google.com/presentation/d/11KR-hzb2N5e3aO1F5BVWJNOANP39cOat0Mg-Rnbh
 
 ## Commençons avec Firebase
 
+https://firebase.google.com/firebase
+
 - Créer un compte sur firebase (lol)
 - Aller dans la catégorie hosting
 - Créer un nouveau projet (Étape 3 décocher les Analytics !!!)
