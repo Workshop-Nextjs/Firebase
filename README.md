@@ -1,7 +1,14 @@
 # Firebase
 
 BONJOUR !! 😁
+
 Bienvenue à ce sublime workshop où nous allons apprendre à deployer un site web Nextjs avec différents hébergeur
+
+Si vous avez participé au workshop que j'ai organisé la semaine dernière vous pouvez utiliser votre site
+Au cas où ça ne serait pas le cas vous allez pouvoir cloner le repo workshop-1 et l'utiliser
+
+Voici un ptt, il n'y a que la première slide qui vous sera utile pour firebase
+https://docs.google.com/presentation/d/11KR-hzb2N5e3aO1F5BVWJNOANP39cOat0Mg-Rnbhx3s/edit?usp=sharing
 
 ## Commençons avec Firebase
 
