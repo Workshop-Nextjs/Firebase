@@ -10,13 +10,14 @@ Bienvenue à ce sublime workshop où nous allons apprendre à deployer un site w
 - Créer un nouveau projet (Étape 3 décocher les Analytics !!!)
 
 Suivre toutes les étapes de l'étape 4
-Exécuter 
+
 ```
 firebase login
+```
+- Connectez-vous avec la même adresse mail que vous avez utiliser pour créer le compte firebase
+```
 firebase init
 ```
-
-- Connectez-vous avec la même adresse mail que vous avez utiliser pour créer le compte firebase
 - Choisir : Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys
 - Use an existing project
 - Choisir le projet
